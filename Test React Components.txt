@@ -1,5 +1,3 @@
-# react-testing-tutorial
-
 Steps to test react, working:
 
 0. Create a npm project with npm init -y
@@ -40,5 +38,5 @@ test('App loads', () => {
   expect(tree).toMatchSnapshot()
 })
 
-5. Finally do in the root folder:
+5. Finally do in the root folder: 
 jest
